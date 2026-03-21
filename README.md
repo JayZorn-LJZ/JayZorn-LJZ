@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+一名高中生
+
+简单介绍：
+🤖 拒绝纯古法编程
+🤔 喜欢古法c++
+😆 喜欢嵌入式或硬件相关
+
+喜欢的技术：
+1. c++
