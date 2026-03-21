@@ -22,5 +22,9 @@ Here are some ideas to get you started:
 🤔 喜欢古法c++
 😆 喜欢嵌入式或硬件相关
 
-喜欢的技术：
+喜欢的语言：
 1. c++
+
+喜欢折腾的：
+1. Esp32
+2. Qt
