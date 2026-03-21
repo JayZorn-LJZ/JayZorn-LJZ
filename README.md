@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 喜欢折腾的：
 1. Esp32
 2. Qt
+
+不喜欢的：
+1. 美化界面
