@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 一名高中生
 
 简单介绍：
-🤖 拒绝纯古法编程
-🤔 喜欢古法c++
+🤔 喜欢c++
 😆 喜欢嵌入式或硬件相关
