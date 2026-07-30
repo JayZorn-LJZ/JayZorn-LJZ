@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 一名高中生
 
-简单介绍：
 🤔 喜欢c++
 😆 喜欢嵌入式或硬件相关
