@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 🤖 拒绝纯古法编程
 🤔 喜欢古法c++
 😆 喜欢嵌入式或硬件相关
-
-喜欢的语言 -> C++
